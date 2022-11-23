@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "solc": "^0.5.10"
+  },
+  "dependencies": {
+    "ganache": "^7.5.0"
+  }
+}
