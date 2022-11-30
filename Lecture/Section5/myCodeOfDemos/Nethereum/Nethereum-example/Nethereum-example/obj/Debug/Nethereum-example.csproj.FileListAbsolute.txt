@@ -1,0 +1,52 @@
+C:\Users\User\Desktop\server-side-demos\Nethereum\Nethereum-example\Nethereum-example\obj\Debug\Nethereum-example.csprojAssemblyReference.cache
+C:\Users\User\Desktop\server-side-demos\Nethereum\Nethereum-example\Nethereum-example\obj\Debug\Nethereum-example.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\server-side-demos\Nethereum\Nethereum-example\Nethereum-example\bin\Debug\Nethereum-example.exe.config
+C:\Users\User\Desktop\server-side-demos\Nethereum\Nethereum-example\Nethereum-example\bin\Debug\Nethereum-example.exe
+C:\Users\User\Desktop\server-side-demos\Nethereum\Nethereum-example\Nethereum-example\bin\Debug\Nethereum-example.pdb
+C:\Users\User\Desktop\server-side-demos\Nethereum\Nethereum-example\Nethereum-example\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\Desktop\server-side-demos\Nethereum\Nethereum-example\Nethereum-example\bin\Debug\Common.Logging.Core.dll
+C:\Users\User\Desktop\server-side-demos\Nethereum\Nethereum-example\Nethereum-example\bin\Debug\Nethereum.ABI.dll
+C:\Users\User\Desktop\server-side-demos\Nethereum\Nethereum-example\Nethereum-example\bin\Debug\Nethereum.Accounts.dll
+C:\Users\User\Desktop\server-side-demos\Nethereum\Nethereum-example\Nethereum-example\bin\Debug\Nethereum.Contracts.dll
+C:\Users\User\Desktop\server-side-demos\Nethereum\Nethereum-example\Nethereum-example\bin\Debug\Nethereum.Hex.dll
+C:\Users\User\Desktop\server-side-demos\Nethereum\Nethereum-example\Nethereum-example\bin\Debug\Nethereum.JsonRpc.Client.dll
+C:\Users\User\Desktop\server-side-demos\Nethereum\Nethereum-example\Nethereum-example\bin\Debug\Nethereum.JsonRpc.RpcClient.dll
+C:\Users\User\Desktop\server-side-demos\Nethereum\Nethereum-example\Nethereum-example\bin\Debug\Nethereum.KeyStore.dll
+C:\Users\User\Desktop\server-side-demos\Nethereum\Nethereum-example\Nethereum-example\bin\Debug\Nethereum.RLP.dll
+C:\Users\User\Desktop\server-side-demos\Nethereum\Nethereum-example\Nethereum-example\bin\Debug\Nethereum.RPC.dll
+C:\Users\User\Desktop\server-side-demos\Nethereum\Nethereum-example\Nethereum-example\bin\Debug\Nethereum.Signer.dll
+C:\Users\User\Desktop\server-side-demos\Nethereum\Nethereum-example\Nethereum-example\bin\Debug\Nethereum.Util.dll
+C:\Users\User\Desktop\server-side-demos\Nethereum\Nethereum-example\Nethereum-example\bin\Debug\Nethereum.Web3.dll
+C:\Users\User\Desktop\server-side-demos\Nethereum\Nethereum-example\Nethereum-example\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\server-side-demos\Nethereum\Nethereum-example\Nethereum-example\bin\Debug\Common.Logging.Core.pdb
+C:\Users\User\Desktop\server-side-demos\Nethereum\Nethereum-example\Nethereum-example\bin\Debug\Common.Logging.Core.xml
+C:\Users\User\Desktop\server-side-demos\Nethereum\Nethereum-example\Nethereum-example\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\server-side-demos\Nethereum\Nethereum-example\Nethereum-example\obj\Debug\Nethereum-example.csproj.CopyComplete
+C:\Users\User\Desktop\server-side-demos\Nethereum\Nethereum-example\Nethereum-example\obj\Debug\Nethereum-example.exe
+C:\Users\User\Desktop\server-side-demos\Nethereum\Nethereum-example\Nethereum-example\obj\Debug\Nethereum-example.pdb
+C:\Users\User\Desktop\Blockchain-courses\Courses\2018\PH-2018-August\DApps-and-Solidity\Day 18. Server-Side Ethereum APIs\live-demo-examples\Nethereum\Nethereum-example\Nethereum-example\bin\Debug\Nethereum-example.exe.config
+C:\Users\User\Desktop\Blockchain-courses\Courses\2018\PH-2018-August\DApps-and-Solidity\Day 18. Server-Side Ethereum APIs\live-demo-examples\Nethereum\Nethereum-example\Nethereum-example\bin\Debug\Nethereum-example.exe
+C:\Users\User\Desktop\Blockchain-courses\Courses\2018\PH-2018-August\DApps-and-Solidity\Day 18. Server-Side Ethereum APIs\live-demo-examples\Nethereum\Nethereum-example\Nethereum-example\bin\Debug\Nethereum-example.pdb
+C:\Users\User\Desktop\Blockchain-courses\Courses\2018\PH-2018-August\DApps-and-Solidity\Day 18. Server-Side Ethereum APIs\live-demo-examples\Nethereum\Nethereum-example\Nethereum-example\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\Desktop\Blockchain-courses\Courses\2018\PH-2018-August\DApps-and-Solidity\Day 18. Server-Side Ethereum APIs\live-demo-examples\Nethereum\Nethereum-example\Nethereum-example\bin\Debug\Common.Logging.Core.dll
+C:\Users\User\Desktop\Blockchain-courses\Courses\2018\PH-2018-August\DApps-and-Solidity\Day 18. Server-Side Ethereum APIs\live-demo-examples\Nethereum\Nethereum-example\Nethereum-example\bin\Debug\Nethereum.ABI.dll
+C:\Users\User\Desktop\Blockchain-courses\Courses\2018\PH-2018-August\DApps-and-Solidity\Day 18. Server-Side Ethereum APIs\live-demo-examples\Nethereum\Nethereum-example\Nethereum-example\bin\Debug\Nethereum.Accounts.dll
+C:\Users\User\Desktop\Blockchain-courses\Courses\2018\PH-2018-August\DApps-and-Solidity\Day 18. Server-Side Ethereum APIs\live-demo-examples\Nethereum\Nethereum-example\Nethereum-example\bin\Debug\Nethereum.Contracts.dll
+C:\Users\User\Desktop\Blockchain-courses\Courses\2018\PH-2018-August\DApps-and-Solidity\Day 18. Server-Side Ethereum APIs\live-demo-examples\Nethereum\Nethereum-example\Nethereum-example\bin\Debug\Nethereum.Hex.dll
+C:\Users\User\Desktop\Blockchain-courses\Courses\2018\PH-2018-August\DApps-and-Solidity\Day 18. Server-Side Ethereum APIs\live-demo-examples\Nethereum\Nethereum-example\Nethereum-example\bin\Debug\Nethereum.JsonRpc.Client.dll
+C:\Users\User\Desktop\Blockchain-courses\Courses\2018\PH-2018-August\DApps-and-Solidity\Day 18. Server-Side Ethereum APIs\live-demo-examples\Nethereum\Nethereum-example\Nethereum-example\bin\Debug\Nethereum.JsonRpc.RpcClient.dll
+C:\Users\User\Desktop\Blockchain-courses\Courses\2018\PH-2018-August\DApps-and-Solidity\Day 18. Server-Side Ethereum APIs\live-demo-examples\Nethereum\Nethereum-example\Nethereum-example\bin\Debug\Nethereum.KeyStore.dll
+C:\Users\User\Desktop\Blockchain-courses\Courses\2018\PH-2018-August\DApps-and-Solidity\Day 18. Server-Side Ethereum APIs\live-demo-examples\Nethereum\Nethereum-example\Nethereum-example\bin\Debug\Nethereum.RLP.dll
+C:\Users\User\Desktop\Blockchain-courses\Courses\2018\PH-2018-August\DApps-and-Solidity\Day 18. Server-Side Ethereum APIs\live-demo-examples\Nethereum\Nethereum-example\Nethereum-example\bin\Debug\Nethereum.RPC.dll
+C:\Users\User\Desktop\Blockchain-courses\Courses\2018\PH-2018-August\DApps-and-Solidity\Day 18. Server-Side Ethereum APIs\live-demo-examples\Nethereum\Nethereum-example\Nethereum-example\bin\Debug\Nethereum.Signer.dll
+C:\Users\User\Desktop\Blockchain-courses\Courses\2018\PH-2018-August\DApps-and-Solidity\Day 18. Server-Side Ethereum APIs\live-demo-examples\Nethereum\Nethereum-example\Nethereum-example\bin\Debug\Nethereum.Util.dll
+C:\Users\User\Desktop\Blockchain-courses\Courses\2018\PH-2018-August\DApps-and-Solidity\Day 18. Server-Side Ethereum APIs\live-demo-examples\Nethereum\Nethereum-example\Nethereum-example\bin\Debug\Nethereum.Web3.dll
+C:\Users\User\Desktop\Blockchain-courses\Courses\2018\PH-2018-August\DApps-and-Solidity\Day 18. Server-Side Ethereum APIs\live-demo-examples\Nethereum\Nethereum-example\Nethereum-example\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Blockchain-courses\Courses\2018\PH-2018-August\DApps-and-Solidity\Day 18. Server-Side Ethereum APIs\live-demo-examples\Nethereum\Nethereum-example\Nethereum-example\bin\Debug\Common.Logging.Core.pdb
+C:\Users\User\Desktop\Blockchain-courses\Courses\2018\PH-2018-August\DApps-and-Solidity\Day 18. Server-Side Ethereum APIs\live-demo-examples\Nethereum\Nethereum-example\Nethereum-example\bin\Debug\Common.Logging.Core.xml
+C:\Users\User\Desktop\Blockchain-courses\Courses\2018\PH-2018-August\DApps-and-Solidity\Day 18. Server-Side Ethereum APIs\live-demo-examples\Nethereum\Nethereum-example\Nethereum-example\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Blockchain-courses\Courses\2018\PH-2018-August\DApps-and-Solidity\Day 18. Server-Side Ethereum APIs\live-demo-examples\Nethereum\Nethereum-example\Nethereum-example\obj\Debug\Nethereum-example.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Blockchain-courses\Courses\2018\PH-2018-August\DApps-and-Solidity\Day 18. Server-Side Ethereum APIs\live-demo-examples\Nethereum\Nethereum-example\Nethereum-example\obj\Debug\Nethereum-example.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Blockchain-courses\Courses\2018\PH-2018-August\DApps-and-Solidity\Day 18. Server-Side Ethereum APIs\live-demo-examples\Nethereum\Nethereum-example\Nethereum-example\obj\Debug\Nethereum-example.csproj.CopyComplete
+C:\Users\User\Desktop\Blockchain-courses\Courses\2018\PH-2018-August\DApps-and-Solidity\Day 18. Server-Side Ethereum APIs\live-demo-examples\Nethereum\Nethereum-example\Nethereum-example\obj\Debug\Nethereum-example.exe
+C:\Users\User\Desktop\Blockchain-courses\Courses\2018\PH-2018-August\DApps-and-Solidity\Day 18. Server-Side Ethereum APIs\live-demo-examples\Nethereum\Nethereum-example\Nethereum-example\obj\Debug\Nethereum-example.pdb

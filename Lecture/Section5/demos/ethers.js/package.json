@@ -1,0 +1,14 @@
+{
+  "name": "02.ethers-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01_example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ethers": "^5.4.1"
+  }
+}
