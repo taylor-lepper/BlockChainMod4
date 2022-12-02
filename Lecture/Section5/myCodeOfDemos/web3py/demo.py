@@ -5,7 +5,7 @@ from web3 import Web3, HTTPProvider
 web3 = Web3(HTTPProvider("https://goerli.infura.io/v3/88a0f67ff73e46fea3a578a43190a150"))
 
 CONTRACT_ADDRESS = Web3.toChecksumAddress("0x0b54055f24F536bFCd8c3e2F413bC30ba5a14d96")
-private_key = "0xfd45ad3d26b563232da01788b117ff526b63702543a28d267309790c4cf4335d"
+private_key = ""
 
 ABI = [
 	{

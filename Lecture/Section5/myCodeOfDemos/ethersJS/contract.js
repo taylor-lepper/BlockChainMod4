@@ -10,7 +10,7 @@ let provider2 = new ethers.providers.JsonRpcProvider("http://localhost:8545");
 
 
 // create wallet
-const privateKey = "0xfd45ad3d26b563232da01788b117ff526b63702543a28d267309790c4cf4335d"; //from MEW
+const privateKey = ""; //from MEW
 let wallet = new ethers.Wallet(privateKey, provider);
 
 

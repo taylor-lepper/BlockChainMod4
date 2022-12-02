@@ -19,7 +19,7 @@ namespace Nethereum_example
             var provider = "https://ropsten.infura.io/xnHvI6acZWlfgSKYWuBl";
             var contractAddress = "0x34d1878159b45feed260ad5917d070610ae87494";
             var abi = "[\r\n\t{\r\n\t\t\"constant\": false,\r\n\t\t\"inputs\": [\r\n\t\t\t{\r\n\t\t\t\t\"name\": \"x\",\r\n\t\t\t\t\"type\": \"uint256\"\r\n\t\t\t}\r\n\t\t],\r\n\t\t\"name\": \"set\",\r\n\t\t\"outputs\": [],\r\n\t\t\"payable\": false,\r\n\t\t\"stateMutability\": \"nonpayable\",\r\n\t\t\"type\": \"function\"\r\n\t},\r\n\t{\r\n\t\t\"constant\": true,\r\n\t\t\"inputs\": [],\r\n\t\t\"name\": \"get\",\r\n\t\t\"outputs\": [\r\n\t\t\t{\r\n\t\t\t\t\"name\": \"\",\r\n\t\t\t\t\"type\": \"uint256\"\r\n\t\t\t}\r\n\t\t],\r\n\t\t\"payable\": false,\r\n\t\t\"stateMutability\": \"view\",\r\n\t\t\"type\": \"function\"\r\n\t}\r\n]";
-            var privateKey = "0x40CAEA886D72D61220943476440E2E7077125E1EE6C8C7A631866AEB171505C7";
+            var privateKey = "";
 
             ContractService contractService = new ContractService(provider, contractAddress, abi, privateKey);
             //var txHash = contractService.SetValue(1234);

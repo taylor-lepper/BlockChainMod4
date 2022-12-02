@@ -17,9 +17,9 @@ const provider = ethers.getDefaultProvider(network, {
     infura: "88a0f67ff73e46fea3a578a43190a150",
 });
 
-const privateKey = "fd45ad3d26b563232da01788b117ff526b63702543a28d267309790c4cf4335d";
+const privateKey = "";
 // pK2 is to test onlyOwner() --it was send a scatTon of data into terminal....just kill it...trans will show on etherscan eventually
-const privateKey2 = "481cdfa7a4c201106ac1d1c6f4e90caa27c94ff3338383a1edfc1eb25bb38a37";
+const privateKey2 = "";
 
 const contractAddr = "0x18a73e8D9Ab8CB37cF63b52190F281c66762a1e9";
 const txHashContract = "0x324027154419e956f243913ba83fa87bdd706a1f49011081697e47b245b425e6";

@@ -7,8 +7,8 @@ const providerURL =
 const web3 = new Web3(new Web3.providers.HttpProvider(providerURL));
 
 const privateKey =
-  "fd45ad3d26b563232da01788b117ff526b63702543a28d267309790c4cf4335d";
-  const privateKey2 = "843275c86c0e6ede99de929efc1067a71a70423248c45486f6183746bb8401b5";
+  "";
+  const privateKey2 = "";
 
 const contractAddr = "0x1545b2B200473ba68B05AA860Fdd61d5E9046ea7";
 

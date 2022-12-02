@@ -7,7 +7,7 @@ $(document).ready(function () {
   const derivationPath = "m/44'/60'/0'/0/";
   const provider = ethers.getDefaultProvider("goerli");
   const privateKey =
-    "0x0c96331a79cf91694fc374033182de74194ff51a0849d7c9363849a03ba855a1";
+    "";
 
   let wallets = {};
   let contract;
